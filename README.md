@@ -1,10 +1,10 @@
 # Python Practice 🐍
 
-Repositorio personal con ejercicios, pequeños proyectos y scripts de práctica en Python. Este espacio funciona como registro de mi progreso y exploración de conceptos a lo largo de mi formación como desarrollador.
+Repositorio personal con ejercicios, proyectos y scripts de práctica en Python. Este espacio funciona como registro de mi progreso y exploración de conceptos a lo largo de mi formación como desarrollador.
 
 ## 📂 Estructura
 
-- `ejercicios/` → Scripts y ejercicios de práctica en Python.
+- `projects/` → Scripts y ejercicios de práctica en Python.
 
 ## 📌 Nota
 
